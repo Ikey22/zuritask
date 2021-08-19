@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZuriTask</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="goals_for_zuri_internship">Goals for Zuri Internship</string>
+    <string name="submit">submit</string>
+    <string name="zuri_task">Zuri Task</string>
+    <string name="full_name_view">Full Name: %s</string>
+</resources>
